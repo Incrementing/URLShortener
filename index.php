@@ -42,11 +42,6 @@ $config = new Config();
     <meta name="description" content="<?php echo $config->get("meta_description"); ?>">
     <meta name="keywords" content="<?php echo $config->get("meta_keywords"); ?>">
     <meta name="author" content="Incrementing // Incrementing.PW // github.com/incrementing/URLShortener">
-    <?php
-    foreach ($config->get("head_extra") as $html_tag) {
-        echo $html_tag . "\n";
-    }
-    ?>
 
     <link rel="icon" type="image/png" href="http://example.com/favicon.png">
     <link rel="stylesheet" type="text/css" href="_using/styles/style.css">
