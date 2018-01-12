@@ -1,4 +1,8 @@
 # URLShortener
+
+**Abandoned**<br>
+Yeah... I really wouldn't use this If I was you. I made this when I first started doing PhP. It's very poorly made and not at all safe. How I called it "clean and simple" I really dont know.
+
 ***A lightweight, clean and simple web-based url shortener.***
 ![Image of Homepage](https://i.imgur.com/vP1M0ED.png)
 
